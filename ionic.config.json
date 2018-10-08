@@ -1,0 +1,7 @@
+{
+  "name": "ISQ",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
